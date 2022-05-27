@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:clickable="true"
+    android:foreground="?android:attr/selectableItemBackground"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:cardCornerRadius="3dp"
+    android:layout_margin="8dp"
+    android:focusable="true">
+
+    <TextView
+        android:id="@+id/mail"
+        android:gravity="center"
+        style="@style/TextAppearance.AppCompat.Body1"
+        tools:text="mudhayarajan.2013@gmail.com"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</androidx.cardview.widget.CardView>

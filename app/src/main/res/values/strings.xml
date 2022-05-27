@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Cureya Intern</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="text_login">LogIn</string>
+    <string name="text_new_user">New User?</string>
+    <string name="text_sign_up">Sign Up</string>
+    <string name="placeholder_enter_email_id">Enter email Id</string>
+    <string name="placeholder_enter_password">Enter password</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_other_users">Others</string>
+    <string name="hint_email_id">Email id</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Name</string>
+    <string name="placeholder_name">Enter yout name</string>
+    <string name="hint_city">City</string>
+    <string name="placeholder_city">Enter your city</string>
+    <string name="hint_age">Age</string>
+    <string name="placeholder_age">Enter your age</string>
+    <string name="sign_up">Register</string>
+    <string name="hint_password_con">Re-type password</string>
+    <string name="placeholder_enter_password_con">Confirm Password</string>
+    <string name="user_details_name">Name:</string>
+    <string name="user_details_email_id">Email-ID:</string>
+    <string name="user_details_age">Age:</string>
+    <string name="user_details_city">City:</string>
+    <string name="sign_out">Sign out</string>
+</resources>

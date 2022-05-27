@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223860882171",
+    "project_id": "cureya-0",
+    "storage_bucket": "cureya-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223860882171:android:60f56d2b480f8a1d928e5e",
+        "android_client_info": {
+          "package_name": "com.cureya.intern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223860882171-ur87jdf93juk2o9ir9ev75hnphomdlfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEPjYDxFWjzxhi95-puqH13DL_DM3HhLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223860882171-ur87jdf93juk2o9ir9ev75hnphomdlfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

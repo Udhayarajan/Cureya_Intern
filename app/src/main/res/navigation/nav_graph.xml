@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/profileFragment">
+
+    <fragment
+        android:id="@+id/authenticationFragment"
+        android:name="com.cureya.intern.ui.auth.AuthenticationFragment"
+        android:label="fragment_authentication"
+        tools:layout="@layout/fragment_authentication"></fragment>
+    <action
+        android:id="@+id/action_global_authenticationFragment"
+        app:destination="@id/authenticationFragment" />
+    <fragment
+        android:id="@+id/signUpFragment"
+        android:name="com.cureya.intern.ui.auth.SignUpFragment"
+        android:label="fragment_sign_up"
+        tools:layout="@layout/fragment_sign_up" />
+    <action
+        android:id="@+id/action_global_signUpFragment"
+        app:destination="@id/signUpFragment" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.cureya.intern.ui.bottomnav.ProfileFragment"
+        android:label="ProfileFragment"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/otherUsersFragment"
+        android:name="com.cureya.intern.ui.bottomnav.OtherUsersFragment"
+        android:label="fragment_other_users"
+        tools:layout="@layout/fragment_other_users" />
+    <action
+        android:id="@+id/action_global_profileFragment"
+        app:destination="@id/profileFragment" />
+    <fragment
+        android:id="@+id/viewUserFragment"
+        android:name="com.cureya.intern.ui.profile.ViewUserFragment"
+        android:label="fragment_view_user"
+        tools:layout="@layout/fragment_view_user">
+        <argument
+            android:name="id"
+            app:argType="string" />
+    </fragment>
+    <action
+        android:id="@+id/action_global_viewUserFragment"
+        app:destination="@id/viewUserFragment" />
+</navigation>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PROJECTS/AndroidStudio/CureyaIntern/app/src/main/res/drawable/ic_close.xml" value="0.166" />
+        <entry key="..\:/PROJECTS/AndroidStudio/CureyaIntern/app/src/main/res/drawable/ic_hide_pass.xml" value="0.121" />
+        <entry key="..\:/PROJECTS/AndroidStudio/CureyaIntern/app/src/main/res/drawable/ic_pass_show.xml" value="0.121" />
+        <entry key="..\:/PROJECTS/AndroidStudio/CureyaIntern/app/src/main/res/drawable/ic_profile.xml" value="0.121" />
+        <entry key="..\:/PROJECTS/AndroidStudio/CureyaIntern/app/src/main/res/drawable/ic_users.xml" value="0.121" />
+        <entry key="..\:/PROJECTS/AndroidStudio/CureyaIntern/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/PROJECTS/AndroidStudio/CureyaIntern/app/src/main/res/layout/fragment_authentication.xml" value="0.25" />
+        <entry key="..\:/PROJECTS/AndroidStudio/CureyaIntern/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/PROJECTS/AndroidStudio/CureyaIntern/app/src/main/res/layout/fragment_other_users.xml" value="0.2" />
+        <entry key="..\:/PROJECTS/AndroidStudio/CureyaIntern/app/src/main/res/layout/fragment_profile.xml" value="0.136" />
+        <entry key="..\:/PROJECTS/AndroidStudio/CureyaIntern/app/src/main/res/layout/fragment_sign_up.xml" value="0.264" />
+        <entry key="..\:/PROJECTS/AndroidStudio/CureyaIntern/app/src/main/res/layout/fragment_view_user.xml" value="0.25" />
+        <entry key="..\:/PROJECTS/AndroidStudio/CureyaIntern/app/src/main/res/layout/loading_dialog.xml" value="0.20521590423257802" />
+        <entry key="..\:/PROJECTS/AndroidStudio/CureyaIntern/app/src/main/res/layout/user_details_item.xml" value="0.264" />
+        <entry key="..\:/PROJECTS/AndroidStudio/CureyaIntern/app/src/main/res/layout/users_list_item.xml" value="0.264" />
+        <entry key="..\:/PROJECTS/AndroidStudio/CureyaIntern/app/src/main/res/menu/menu_bottom_app_bar.xml" value="0.10989583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
